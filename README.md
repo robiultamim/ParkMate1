@@ -1,2 +1,11 @@
-# ParkMate
-ParkMate offers a digital platform (web-App) that connects drivers to nearby available parking spaces and allows space owners to rent out unused garages or spots. Users can search for nearby parking, book, and pay for parking on an hourly basis, while hosts can manage availability and earnings. 
+
+  # Parkmate App
+
+  This is a code bundle for Parkmate App. The original project is available at https://www.figma.com/design/FdwSGHH3xpolYVUkPCXXuS/Parkmate-App.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
